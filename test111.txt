@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
+<<<<<<< HEAD
 "Webdunia test file"
+=======
+=======
+hello WEBDUNIA...
+>>>>>>> 1aaf5aaf0964e2e32f864f3cf2b39014104266f7
+>>>>>>> 814cae379820a8ddec51168cec7cb15a3495fdd0
 CONTENTS OF THIS FILE
 ---------------------
 
